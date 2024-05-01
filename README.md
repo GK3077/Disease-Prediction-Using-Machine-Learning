@@ -36,9 +36,9 @@ cd repo
 <li>Prediction Function: A function is defined to predict diseases based on input symptoms. It utilizes the combined model for predictions.</li></ul>
 
 ### Results
-<ul><li>Model Performance: All models achieved 100% accuracy on both training and testing datasets.</li>
-<li>Combined Model: The combined model also achieved 100% accuracy on the test dataset.</li>
-<li>Prediction Function: The provided function accurately predicts diseases based on input symptoms.</li></ul>
+- Model Performance: All models achieved 100% accuracy on both training and testing datasets.
+- Combined Model: The combined model also achieved 100% accuracy on the test dataset.
+- Prediction Function: The provided function accurately predicts diseases based on input symptoms.
 
 ### Example
 
@@ -46,8 +46,8 @@ cd repo
 print(predictDisease("Itching,Skin Rash,Nodal Skin Eruptions"))
 # Output: {'rf_model_prediction': 'Fungal infection', 'naive_bayes_prediction': 'Fungal infection', 'svm_model_prediction': 'Fungal infection', 'final_prediction': 'Fungal infection'}
 ```
-### Contributors
-<ul><li>Gayathri Krishnan</li></ul>
+### Contributing
+Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ### License
 <p>This project is licensed under the MIT License.</p>
